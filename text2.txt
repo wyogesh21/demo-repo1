@@ -1,2 +1,3 @@
 Creating text2.txt
-Line 2
+
+Adding line 3 by deliting line 2
